@@ -1,0 +1,11 @@
+# ABOUT THIS FILE: Audacity used to store modular sound clips as small files in a large nest of folders, which was great for versioning but risky: any accidental change to the folder structure could break the project. 
+# Starting in version 3.x, Audacity now compresses everything into a single .aup3 file, which prevents those problems but introduces another one: now the files get really big, really fast. 
+# Luckily GitHub has a Large File Storage (LFS) system, which works by storing the large files separately, on a dedicated server, and replacing them in the remote repository with a simple text file that points to the LFS server.
+# LFS is activated by the presence in the repo of a file called .gitattributes (this file!) in combination with the presence of any files matching the strings at the start of the uncommented lines below (e.g. *.aup3 will match any Audacity project file). 
+# I've created the empty file .lfs-init solely for the sake of activating LFS, but I've also pre-set .gitattributes to detect Audacity files before they become a problem.
+# If you want to add any additional file types, like *.wav (uncompressed audio) or *.sesx (Adobe Audition), copy line 9 into a new line and replace ".aup3" with the extension of your choice (but keep the * at the front).
+
+*.lfs-init filter=lfs diff=lfs merge=lfs -text
+*.aup3 filter=lfs diff=lfs merge=lfs -text
+
+# (NB: you can also do this for individual file names, which is all that ".lfs-init" is. This will save on storage quota by not using LFS for (say) .wav files below 100MB.)
