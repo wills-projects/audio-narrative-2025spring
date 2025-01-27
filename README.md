@@ -7,10 +7,13 @@ As you start planning your composition, consider: in what place (physical, virtu
 You don't need answers to all of these questions before getting started, but asking them early and returning to them often could help you get a sense of the soundscape you want to make.
 
 ## Generative constraints
+
 _(to be updated together in lesson 6)_
 
 ### Baseline Criteria
+
 For a minimum grade of B, all projects for this unit must…
+
 * Play for 2-4 minutes
 * Have something happen or change during the piece (e.g. a shift in location, a discrete event)
 * Contain at least one sound originally recorded by you
@@ -22,7 +25,9 @@ For a minimum grade of B, all projects for this unit must…
 
 
 ### Aspirational Inspirations
+
 To target (but not guarantee) a grade above a B, the best projects for this unit may…
+
 * Use relative volume and other effects to signal distance
 * Use left/right pan and low/high pass filters to create a sense of (locations in) space
 * Have a clear organizational scheme you can articulate in your reflection
@@ -37,6 +42,7 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
 
 
 ## Deadlines and products
+
 At each stage, unless otherwise specified, upload (push) your materials to _your own forked copy_ of this assignment repository. I recommend that you **save often, using meaningful commit messages**; for best results, please keep your filenames clear, lowercase, and space-free (use hyphens or underscores).
 
 Unless otherwise noted, materials are expected by 10pm on the following dates, so I can begin reviewing them before class the next day.
