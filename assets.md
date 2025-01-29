@@ -1,0 +1,1 @@
+**birds chirping sound** - City park ambiance with birds chirping on a tree, microphone towards top of the tree, road traffic far away and slight wind, recorded in Elwood museum, Dekalb, Illinois by felix.blume -- https://freesound.org/s/667061/ -- License: Creative Commons 0
