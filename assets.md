@@ -14,4 +14,6 @@
 
 **walking on hardwood floor** - Barefoot Walking Hardwood floor by yzhamua -- https://freesound.org/s/188680/ -- License: Creative Commons 0
 
+**opening bathroom door** - DOOR Bathroom Wood INT open close medium far MG.wav by matucha -- https://freesound.org/s/114510/ -- License: Attribution 4.0
+
 **brushing teeth sound** - Brushing Teeth.wav by Belisarius500 -- https://freesound.org/s/569312/ -- License: Attribution 3.0
