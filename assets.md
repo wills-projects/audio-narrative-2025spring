@@ -13,3 +13,5 @@
 **jazz music in background** - Sunday Morning by Dee Yan-Key -- https://freemusicarchive.org/music/Dee_Yan-Key/years_and_years_ago/04--Dee_Yan-Key-Sunday_Morning/ -- License: Attribution-NonCommercial-ShareAlike 4.0 International
 
 **walking on hardwood floor** - Barefoot Walking Hardwood floor by yzhamua -- https://freesound.org/s/188680/ -- License: Creative Commons 0
+
+**brushing teeth sound** - 00096_C.wav by kalashnikov_v2 -- https://freesound.org/s/82071/ -- License: Attribution NonCommercial 3.0
