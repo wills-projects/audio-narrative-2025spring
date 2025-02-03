@@ -23,3 +23,7 @@
 **bread in toaster sound** - bread_in_toaster.wav by mshahen -- https://freesound.org/s/185451/ -- License: Attribution 4.0
 
 **bread popping out of toaster sound** - Toaster by veronicalyn -- https://freesound.org/s/444917/ -- License: Creative Commons 0
+
+**sitting down on leather couch** - flop on couch.wav by sidequesting -- https://freesound.org/s/541544/ -- License: Creative Commons 0
+
+**eating toast** - Eating a Toastie.wav by squashy555 -- https://freesound.org/s/235905/ -- License: Creative Commons 0
