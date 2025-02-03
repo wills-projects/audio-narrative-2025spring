@@ -2,4 +2,8 @@
 .DS_Store
 sources/**
 *.aup3-wal
+wills-projects-patch-1
 lazy sunday morning.aup3-shm
+=======
+*.aup3-shm
+
