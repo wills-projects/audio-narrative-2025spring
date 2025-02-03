@@ -14,4 +14,4 @@
 
 **walking on hardwood floor** - Barefoot Walking Hardwood floor by yzhamua -- https://freesound.org/s/188680/ -- License: Creative Commons 0
 
-**brushing teeth sound** - 00096_C.wav by kalashnikov_v2 -- https://freesound.org/s/82071/ -- License: Attribution NonCommercial 3.0
+**brushing teeth sound** - Brushing Teeth.wav by Belisarius500 -- https://freesound.org/s/569312/ -- License: Attribution 3.0
