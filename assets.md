@@ -27,3 +27,15 @@
 **sitting down on leather couch** - flop on couch.wav by sidequesting -- https://freesound.org/s/541544/ -- License: Creative Commons 0
 
 **eating toast** - Eating a Toastie.wav by squashy555 -- https://freesound.org/s/235905/ -- License: Creative Commons 0
+
+**door knocking sound** - Wooden door knock.wav by 775noise -- https://freesound.org/s/494569/ -- License: Creative Commons 0
+
+**huh sound** - recorded by me
+
+**opening door sound** - 
+
+**police siren sound** - 
+
+**police talking sound** - 
+
+**handcuffed sound** - 
