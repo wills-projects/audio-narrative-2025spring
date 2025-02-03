@@ -14,4 +14,28 @@
 
 **walking on hardwood floor** - Barefoot Walking Hardwood floor by yzhamua -- https://freesound.org/s/188680/ -- License: Creative Commons 0
 
-**brushing teeth sound** - 00096_C.wav by kalashnikov_v2 -- https://freesound.org/s/82071/ -- License: Attribution NonCommercial 3.0
+**opening bathroom door** - DOOR Bathroom Wood INT open close medium far MG.wav by matucha -- https://freesound.org/s/114510/ -- License: Attribution 4.0
+
+**sharp exhale** - recorded by me
+
+**brushing teeth sound** - Brushing Teeth.wav by Belisarius500 -- https://freesound.org/s/569312/ -- License: Attribution 3.0
+
+**bread in toaster sound** - bread_in_toaster.wav by mshahen -- https://freesound.org/s/185451/ -- License: Attribution 4.0
+
+**bread popping out of toaster sound** - Toaster by veronicalyn -- https://freesound.org/s/444917/ -- License: Creative Commons 0
+
+**sitting down on leather couch** - flop on couch.wav by sidequesting -- https://freesound.org/s/541544/ -- License: Creative Commons 0
+
+**eating toast** - Eating a Toastie.wav by squashy555 -- https://freesound.org/s/235905/ -- License: Creative Commons 0
+
+**door knocking sound** - Wooden door knock.wav by 775noise -- https://freesound.org/s/494569/ -- License: Creative Commons 0
+
+**huh sound** - recorded by me
+
+**opening door sound** - Opening Front Door with Bus Passing by_1-2.aif by SteveMannella -- https://freesound.org/s/86184/ -- License: Sampling+ 
+
+**police siren sound** - Police siren by sofialomba -- https://freesound.org/s/469411/ -- License: Creative Commons 0
+
+**police talking sound** - Police.wav by tekgnosis -- https://freesound.org/s/144702/ -- License: Creative Commons 0
+
+**handcuffed sound** - handcuff.wav by Erdie -- https://freesound.org/s/22414/ -- License: Attribution 4.0

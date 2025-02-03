@@ -1,4 +1,3 @@
-wills-projects-patch-1
 This is the future website for William Lee's audio narrative.
 =======
 # Project 1: Audio Narrative
