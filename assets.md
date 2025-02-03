@@ -19,3 +19,7 @@
 **sharp exhale** - recorded by me
 
 **brushing teeth sound** - Brushing Teeth.wav by Belisarius500 -- https://freesound.org/s/569312/ -- License: Attribution 3.0
+
+**bread in toaster sound** - bread_in_toaster.wav by mshahen -- https://freesound.org/s/185451/ -- License: Attribution 4.0
+
+**bread popping out of toaster sound** - Toaster by veronicalyn -- https://freesound.org/s/444917/ -- License: Creative Commons 0
