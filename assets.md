@@ -32,7 +32,7 @@
 
 **huh sound** - recorded by me
 
-**opening door sound** - 
+**opening door sound** - Opening Front Door with Bus Passing by_1-2.aif by SteveMannella -- https://freesound.org/s/86184/ -- License: Sampling+ 
 
 **police siren sound** - 
 
