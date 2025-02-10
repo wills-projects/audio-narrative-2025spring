@@ -36,6 +36,6 @@
 
 **police siren sound** - Police siren by sofialomba -- https://freesound.org/s/469411/ -- License: Creative Commons 0
 
-**police talking sound** - Police.wav by tekgnosis -- https://freesound.org/s/144702/ -- License: Creative Commons 0
+**police talking sound** - recorded by me (graphic EQ and reverb)
 
 **handcuffed sound** - handcuff.wav by Erdie -- https://freesound.org/s/22414/ -- License: Attribution 4.0
